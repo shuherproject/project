@@ -1,0 +1,15 @@
+.header_description {
+    background-color: #9740e9;
+    color: #ffffff;
+}
+.header_fonts {
+    font-family: sans-serif;
+}
+p  {
+    font-size: 22px;
+    line-height: 34px;
+}
+ul {
+    font-size: 18px;
+    line-height: 26px;
+}
