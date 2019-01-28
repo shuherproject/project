@@ -1,8 +1,11 @@
-.header_description {
+.header {
     background-color: #9740e9;
     color: #ffffff;
 }
-.header_fonts {
+.header_h1_title {
+    font-family: sans-serif;
+}
+.h2_title {
     font-family: sans-serif;
 }
 p  {
